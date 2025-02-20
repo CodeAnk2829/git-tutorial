@@ -8,3 +8,4 @@ After merge conflict we are trying to merge test branch into master branch
 
 branch 'develop' starts
 commit c1
+commit c2
