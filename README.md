@@ -12,5 +12,5 @@ commit c2
 commiting from test branch
 this one is great bro
 again commiting from test branch
-branch 'topic' starts
+branch test starts instead of topic
 commit c1 not from topic branch but from the test branch
