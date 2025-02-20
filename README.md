@@ -13,3 +13,4 @@ commit c3
 commit c4
 
 branch 'topic' starts
+commit c1 for topic branch
