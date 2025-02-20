@@ -10,8 +10,7 @@ branch 'develop' starts
 commit c1
 commit c2
 commiting from test branch
-commit c3
-commit c4
+this one is great bro
 again commiting from test branch
 branch 'topic' starts
 commit c1 not from topic branch but from the test branch
