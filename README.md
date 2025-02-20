@@ -6,9 +6,7 @@ We are at test branch now
 After merge conflict we are trying to merge test branch into master branch
 
 
-branch 'develop' starts
-commit c1
-commit c2
+forget about develop branch, we deleted that
 commiting from test branch
 this one is great bro
 again commiting from test branch
