@@ -11,5 +11,6 @@ commit c1
 commit c2
 commit c3
 commit c4
-commit c5
-commit c6
+
+branch 'topic' starts
+commit c1 for topic branch
