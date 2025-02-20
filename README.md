@@ -8,5 +8,6 @@ After merge conflict we are trying to merge test branch into master branch
 
 this is master branch bro
 commiting from test branch
+added one line from test branch whereas deleted three lines from master branch
 
 commit c1 not from topic branch but from the test branch
