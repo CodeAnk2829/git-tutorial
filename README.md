@@ -14,3 +14,5 @@ commit c1 not from topic branch but from the test branch
 
 
 Added git remote and curretly working on test branch
+
+Adding newline to test branch
